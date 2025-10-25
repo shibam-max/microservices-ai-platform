@@ -1,6 +1,6 @@
 # Distributed Microservices Platform with AI/ML Integration
 
-> 🤖 **Enterprise-grade microservices platform with AI/ML capabilities, demonstrating full-stack development, DevOps automation, and intelligent data processing for XYZ Dev Foundation requirements.**
+> 🤖 **Enterprise-grade microservices platform with AI/ML capabilities, demonstrating full-stack development, DevOps automation, and intelligent data processing.**
 
 [![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square)](https://openjdk.java.net/)
 [![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square)](https://python.org/)
@@ -8,10 +8,6 @@
 [![ReactJS](https://img.shields.io/badge/ReactJS-18-blue?style=flat-square)](https://reactjs.org/)
 [![Kafka](https://img.shields.io/badge/Kafka-Event%20Streaming-red?style=flat-square)](https://kafka.apache.org/)
 [![AI/ML](https://img.shields.io/badge/AI%2FML-TensorFlow-orange?style=flat-square)](https://tensorflow.org/)
-
-## 🎯 XYZ Dev Foundation Alignment
-
-This platform demonstrates **comprehensive technical expertise** required for the Dev Foundation role:
 
 ### ✅ **Multi-Language Development**
 - **Java 17** - Spring Boot microservices with REST APIs
