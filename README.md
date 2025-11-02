@@ -1,6 +1,6 @@
 # Distributed Microservices Platform with AI/ML Integration
 
-> 🤖 **Enterprise-grade microservices platform with AI/ML capabilities, demonstrating full-stack development, DevOps automation, and intelligent data processing.**
+**Enterprise-grade microservices platform with AI/ML capabilities, demonstrating full-stack development, DevOps automation, and intelligent data processing.**
 
 [![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square)](https://openjdk.java.net/)
 [![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat-square)](https://python.org/)
@@ -9,19 +9,19 @@
 [![Kafka](https://img.shields.io/badge/Kafka-Event%20Streaming-red?style=flat-square)](https://kafka.apache.org/)
 [![AI/ML](https://img.shields.io/badge/AI%2FML-TensorFlow-orange?style=flat-square)](https://tensorflow.org/)
 
-### ✅ **Multi-Language Development**
+### **Multi-Language Development**
 - **Java 17** - Spring Boot microservices with REST APIs
 - **Python 3.9** - AI/ML services and data processing
 - **JavaScript/ReactJS** - Modern frontend with real-time features
 - **NodeJS** - Backend APIs and real-time communication
 
-### ✅ **Enterprise Architecture**
+### **Enterprise Architecture**
 - **Microservices Design** - Scalable, distributed system architecture
 - **Event-Driven Architecture** - Kafka-based messaging and data streaming
 - **Database Integration** - Multi-database architecture (PostgreSQL, MongoDB, Redis)
 - **AI/ML Integration** - Intelligent data processing and predictive analytics
 
-## 🏗️ System Architecture
+## System Architecture
 
 ### Microservices Architecture
 ```
@@ -49,29 +49,29 @@
                         └─────────────────┘    └─────────────────┘
 ```
 
-## 🚀 Key Features
+## Key Features
 
-### 🔄 **Microservices Ecosystem**
+### **Microservices Ecosystem**
 - **API Gateway** - Centralized routing, authentication, and rate limiting
 - **User Management Service** - Authentication, authorization, and user profiles
 - **Data Processing Service** - Real-time data ingestion and transformation
 - **AI/ML Service** - Machine learning models and predictive analytics
 - **Notification Service** - Real-time notifications and messaging
 
-### 📊 **AI/ML Capabilities**
+### **AI/ML Capabilities**
 - **Predictive Analytics** - Machine learning models for data prediction
 - **Real-time Processing** - Stream processing with intelligent decision making
 - **Natural Language Processing** - Text analysis and sentiment detection
 - **Computer Vision** - Image processing and object recognition
 - **Recommendation Engine** - Personalized content and product recommendations
 
-### ⚡ **Performance & Scalability**
+### **Performance & Scalability**
 - **Auto-scaling** - Kubernetes-based horizontal pod autoscaling
 - **Load Balancing** - Intelligent traffic distribution across services
 - **Caching Strategy** - Multi-level caching with Redis and application-level cache
 - **Database Optimization** - Query optimization and connection pooling
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### **Backend Services**
 - **Java 17** - Spring Boot microservices with REST APIs
@@ -104,7 +104,7 @@
 - **Jenkins** - CI/CD pipeline automation
 - **Prometheus & Grafana** - Monitoring and visualization
 
-## 📈 Performance Metrics
+## Performance Metrics
 
 ### **System Performance**
 - **API Response Time**: P99 < 50ms for standard operations
@@ -153,7 +153,7 @@ cd frontend && npm install && npm start
 curl http://localhost:8080/api/v1/health
 ```
 
-## 📊 API Examples
+## API Examples
 
 ### User Management API
 ```bash
@@ -200,33 +200,33 @@ curl -X POST http://localhost:8080/api/v1/data/stream \
   }'
 ```
 
-## 🎯 Skills Demonstrated
+## Skills Demonstrated
 
 ### **Programming Excellence**
-- ✅ **Java**: Advanced Spring Boot microservices with REST APIs
-- ✅ **Python**: AI/ML services with TensorFlow and data processing
-- ✅ **JavaScript**: Modern ES2022 features and async programming
-- ✅ **ReactJS**: Component-based frontend with state management
+- **Java**: Advanced Spring Boot microservices with REST APIs
+- **Python**: AI/ML services with TensorFlow and data processing
+- **JavaScript**: Modern ES2022 features and async programming
+- **ReactJS**: Component-based frontend with state management
 
 ### **Architecture & Design**
-- ✅ **Microservices**: Distributed system design and implementation
-- ✅ **Object-Oriented Design**: Clean code and design patterns
-- ✅ **Event-Driven Architecture**: Kafka-based messaging and streaming
-- ✅ **Database Design**: Multi-database architecture and optimization
+- **Microservices**: Distributed system design and implementation
+- **Object-Oriented Design**: Clean code and design patterns
+- **Event-Driven Architecture**: Kafka-based messaging and streaming
+- **Database Design**: Multi-database architecture and optimization
 
 ### **DevOps & Infrastructure**
-- ✅ **CI/CD**: Jenkins pipeline automation and deployment
-- ✅ **Containerization**: Docker and Kubernetes orchestration
-- ✅ **Configuration Management**: Infrastructure as code
-- ✅ **Monitoring**: Comprehensive observability and alerting
+- **CI/CD**: Jenkins pipeline automation and deployment
+- **Containerization**: Docker and Kubernetes orchestration
+- **Configuration Management**: Infrastructure as code
+- **Monitoring**: Comprehensive observability and alerting
 
 ### **AI/ML Integration**
-- ✅ **Machine Learning**: TensorFlow models and scikit-learn algorithms
-- ✅ **Data Processing**: Real-time stream processing and analytics
-- ✅ **Predictive Analytics**: Intelligent decision making and recommendations
-- ✅ **NLP Integration**: Natural language processing and text analysis
+- **Machine Learning**: TensorFlow models and scikit-learn algorithms
+- **Data Processing**: Real-time stream processing and analytics
+- **Predictive Analytics**: Intelligent decision making and recommendations
+- **NLP Integration**: Natural language processing and text analysis
 
-## 🏆 Project Highlights
+## Project Highlights
 
 ### **Technical Innovation**
 - **Real-time AI/ML**: Live machine learning inference and adaptation
@@ -246,7 +246,7 @@ curl -X POST http://localhost:8080/api/v1/data/stream \
 - **Documentation**: Complete API documentation and guides
 - **CI/CD**: Automated build, test, and deployment pipelines
 
-## 📋 Project Structure
+## Project Structure
 
 ```
 microservices-ai-platform/
@@ -274,13 +274,13 @@ microservices-ai-platform/
 
 **Built for XYZ Dev Foundation** - Demonstrating full-stack development, microservices architecture, AI/ML integration, and DevOps automation skills that align perfectly with the Dev Foundation team requirements.
 
-## 📞 Contact
+## Contact
 
 **Shibam Samaddar**  
 Full-Stack Developer | AI/ML Engineer | DevOps Specialist  
-📧 Email: shibamsamaddar1999@gmail.com  
-💼 LinkedIn: [linkedin.com/in/shibam-samaddar-177a2b1aa]  
-🐙 GitHub: [github.com/shibam-max]
+Email: shibamsamaddar1999@gmail.com  
+LinkedIn: [linkedin.com/in/shibam-samaddar-177a2b1aa]  
+GitHub: [github.com/shibam-max]
 
 ---
 
